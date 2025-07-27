@@ -1,0 +1,22 @@
+{
+  "logo": "<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 300 300'><defs><linearGradient id='goldGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#DAA520'/><stop offset='100%' stop-color='#8B4513'/></linearGradient><radialGradient id='darkGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#2B1B17'/><stop offset='100%' stop-color='#000000'/></radialGradient></defs><rect width='100%' height='100%' fill='url(#darkGradient)' /><circle cx='150' cy='150' r='120' fill='none' stroke='#DAA52055' stroke-width='4'/><text x='50%' y='58%' text-anchor='middle' dominant-baseline='middle' font-family='Cinzel, serif' font-size='180' fill='url(#goldGradient)' font-weight='bold'>N</text></svg>",
+  "name": "Nightheaven",
+  "nav": [
+    { "name": "Tour", "href": "tour" },
+    { "name": "Neuigkeiten", "href": "news" },
+    { "name": "Mitglieder", "href": "members" }
+  ],
+  "rightnav": [
+    { "name": "Media", "href": "media" },
+    { "name": "Musik", "href": "musik" },
+    { "name": "Kontakt", "href": "kontakt" }
+  ],
+  "tour": [
+    {"title": "Es ist keine auftritt vermerkt" ,"content":"01. Mai 2025"}
+  ],
+  "news": [
+    { "title": "Wir suchen einen Schlagzeuger", "content": "01. Mai 2025", "href": "#/news#/01 Mai 2025" },
+    { "title": "Wir suchen einen Gitarristen", "content": "15. Mai 2025", "href": "#/news#/15 Mai 2025" },
+    { "title": "Wir suchen einen Bassisten", "content": "30. Mai 2025", "href": "#/news#/30 Mai 2025" }
+  ]
+}
